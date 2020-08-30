@@ -1,11 +1,11 @@
 {
-    "masterVersionFile":"https://bitbucket.org/SafariJohn/logistics-notifications/downloads/logisticsNotify.version",
+    "masterVersionFile":"https://raw.githubusercontent.com/SafariJohn/Logistics-Notifications/master/logisticsNotify.version",
     "modName":"Logistics Notifications",
     "modThreadId":17379,
     "modVersion":
     {
         "major":1,
         "minor":3,
-        "patch":0
+        "patch":1
     },
 }
